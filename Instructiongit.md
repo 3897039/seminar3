@@ -85,6 +85,13 @@
     git checkout master
 
 
+## Ветвление веток в Git
+
+Чтобы создать новую ветку в репозитории нужно ввести команду:
+
+    git branch <name_branch>
+
+Где <name_branch> это имя ветки.
 
 
 
